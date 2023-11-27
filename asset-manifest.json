@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/game/static/css/main.7a4faa9b.css",
+    "main.js": "/game/static/js/main.a2eff81d.js",
+    "static/media/bg3.jpg": "/game/static/media/bg3.33e52ec2d4e9e18a36dd.jpg",
+    "static/media/pic1.jpg": "/game/static/media/pic1.9da3604a195f56abb2d7.jpg",
+    "static/media/pic2.jpg": "/game/static/media/pic2.a5bcd94140de4e1fbddf.jpg",
+    "static/media/pic5.jpg": "/game/static/media/pic5.42523a868ae599710913.jpg",
+    "static/media/pic3.jpg": "/game/static/media/pic3.87f94355e4b60768def7.jpg",
+    "static/media/pic4.jpg": "/game/static/media/pic4.f561c35539dcebcbe58f.jpg",
+    "index.html": "/game/index.html",
+    "main.7a4faa9b.css.map": "/game/static/css/main.7a4faa9b.css.map",
+    "main.a2eff81d.js.map": "/game/static/js/main.a2eff81d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a4faa9b.css",
+    "static/js/main.a2eff81d.js"
+  ]
+}
